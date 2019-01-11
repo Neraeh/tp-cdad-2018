@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/Neraeh/tp-cdad-2018.svg?branch=master)](https://travis-ci.org/Neraeh/tp-cdad-2018)
+
 ## TP CDAD 2018
 
 ### How to start
